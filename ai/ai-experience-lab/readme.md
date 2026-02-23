@@ -11,3 +11,4 @@ you can access the google colab implementation here:
 [lec3 loss functions](https://colab.research.google.com/drive/1sZio1b-95b3VknErdUh3Pr6fzbt5ON9C?usp=sharing)   
 [lec4 back propagation](https://colab.research.google.com/drive/1G-x3-GDtdBZNlqE1mlwz9e3BmdveNPRp?usp=sharing)   
 [lec5 optimization](https://colab.research.google.com/drive/10hjPE5_TG-Hl3v3XWw8SPUjR3y8RwwwV?usp=sharing)   
+[lec6 CNNs](https://colab.research.google.com/drive/1Rmcddb66Ba35uhIFV-YxinN4y2EjeQhT?usp=sharing)   
